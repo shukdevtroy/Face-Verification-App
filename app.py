@@ -1,4 +1,3 @@
-%%writefile app.py
 """
 ================================================================================
  FACE VERIFICATION APP — InsightFace (ArcFace) primary backend, AdaFace optional
